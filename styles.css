@@ -35,3 +35,7 @@ h1 {
   margin-top: 20px;
   padding: 0 20px 10px 20px;
 }
+
+.sidebar nav ul li {
+  color: (179,179,179);
+}
