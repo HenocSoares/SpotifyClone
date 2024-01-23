@@ -11,7 +11,7 @@ h1 {
   top: 0;
   left: 0;
   bottom: 0;
-  padding: 12px; /* for all axis, it will be the same. */
+  padding: 12px; /* Padding for all sides of the sidebar */
 }
 
 .sidebar_navigation {
