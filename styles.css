@@ -20,7 +20,7 @@ h1 {
   padding: 16px 0 0 16px;
 }
 
-.logo {
+.sidebar_navigation .logo {
   background: (18,18,18);
   display: flex;
   border-radius: 8px;
