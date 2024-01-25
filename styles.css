@@ -70,4 +70,6 @@ h1 {
   margin-right: 10px;
   color: (179,179,179);
   background-color: transparent;
+  border: 0;
+  font-size: 1rem;
 }
