@@ -15,13 +15,13 @@ h1 {
 }
 
 .sidebar_navigation {
-  background-color: (18,18,18);
+  background-color: rgb(18,18,18);
   border-radius: 8px;
   padding: 16px 0 0 16px;
 }
 
 .sidebar_navigation .logo {
-  background: (18,18,18);
+  background: rgb(18,18,18);
   display: flex;
   border-radius: 8px;
   padding: 16px 0 0 16px;
@@ -41,7 +41,7 @@ h1 {
 }
 
 .sidebar nav ul li a {
-  color: (179,179,179);
+  color: rgb(179,179,179);
   font-weight: 600;
   font-size: 14px;
   text-decoration: none;
@@ -49,7 +49,7 @@ h1 {
 }
 
 .library {
-  background-color: (18,18,18);
+  background-color: rgb(18,18,18);
   border-radius: 8px;
   display: flex;
   justify-content: space-between;
@@ -69,7 +69,7 @@ h1 {
 .library .library__button {
   display: flex;
   margin-right: 10px;
-  color: (179,179,179);
+  color: rgb(179,179,179);
   background-color: transparent;
   border: 0;
   font-size: 14px;
@@ -102,8 +102,8 @@ h1 {
   align-items: flex-start;
   justify-content: space-between;
   gap: 20px;
-  background-color: (36,36,36);
-  color: (179,179,179);
+  background-color: rgb(36,36,36);
+  color: rgb(179,179,179);
   font-weight: 600;
   font-size: 14px;
   margin: 8px 0;
@@ -168,7 +168,7 @@ h1 {
 
 .langs .langs__button {
   background-color: transparent;
-  border: 1px solid (135,135,135); /* Shorthand: properties with one only declaration */
+  border: 1px solid rgb(135,135,135); /* Shorthand: properties with one only declaration */
   color: whitesmoke;
   cursor: pointer;
   font-weight: bold;
