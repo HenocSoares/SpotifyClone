@@ -165,4 +165,10 @@ h1 {
 .langs .langs__button {
   background-color: transparent;
   border: 1px solid (135,135,135); /* Shorthand: properties with one only declaration */
+  color: whitesmoke;
+  cursor: pointer;
+  font-weight: bold;
+  align-items: center;
+  width: 170px;
+  padding: 8px;
 }
