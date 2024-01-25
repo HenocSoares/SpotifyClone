@@ -108,3 +108,30 @@ h1 {
   margin: 8px 0;
   padding: 16px 20px;
 }
+
+.sectionPlaylist .sectionPlaylist__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.sectionPlaylist__content .textTitle {
+  padding-bottom: 14px;
+  color: white;
+  font-weight: 700;
+}
+
+.sectionPlaylist__content .textSubTitle {
+  padding-bottom: 14px;
+  color: white;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.sectionPlaylist__content .sectionPlaylist__button {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  border-radius: 20px;
+  font-size: 12px;
+}
