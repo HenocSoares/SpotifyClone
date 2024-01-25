@@ -161,3 +161,8 @@ h1 {
 .cookies a:hover {
   text-decoration: underline;
 }
+
+.langs .langs__button {
+  background-color: transparent;
+  border: 1px solid (135,135,135); /* Shorthand: properties with one only declaration */
+}
