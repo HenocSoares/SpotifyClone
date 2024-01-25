@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: red;
 }
 
 h1 {
@@ -107,6 +107,7 @@ h1 {
   font-size: 14px;
   margin: 8px 0;
   padding: 16px 20px;
+  border-radius: 10px;
 }
 
 .sectionPlaylist .sectionPlaylist__content {
@@ -171,4 +172,5 @@ h1 {
   align-items: center;
   width: 170px;
   padding: 8px;
+  border-radius: 20px;
 }
