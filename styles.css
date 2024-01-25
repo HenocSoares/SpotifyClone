@@ -103,6 +103,7 @@ h1 {
   justify-content: space-between;
   gap: 20px;
   background-color: (36,36,36);
+  color: (179,179,179);
   font-weight: 600;
   font-size: 14px;
   margin: 8px 0;
@@ -119,6 +120,7 @@ h1 {
   padding-bottom: 14px;
   color: white;
   font-weight: 700;
+  font-family: "DM Sans", sans-serif;
 }
 
 .sectionPlaylist .sectionPlaylist__content .textSubTitle {
@@ -127,6 +129,7 @@ h1 {
   font-weight: 500;
   font-size: 12px;
   text-align: center;
+  font-family: "DM Sans", sans-serif;
 }
 
 .sectionPlaylist .sectionPlaylist__content .sectionPlaylist__button {
