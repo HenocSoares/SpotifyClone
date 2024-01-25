@@ -65,3 +65,9 @@ h1 {
   display: flex;
   justify-content: space-between;
 }
+
+.library .library__button {
+  margin-right: 10px;
+  color: (179,179,179);
+  background-color: transparent;
+}
