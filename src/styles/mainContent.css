@@ -20,3 +20,19 @@
     justify-content: space-around;
     align-items: center;
 }
+
+.header__nav.navigation .arrow-left {
+    margin-right: 1.25rem;
+}
+
+.arrow-left, .arrow-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background-color: var(--bf-icon);
+    background-color: var(--bg-arrow-color);
+    border: none;
+    cursor: pointer;
+}
